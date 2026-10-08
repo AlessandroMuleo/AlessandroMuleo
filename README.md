@@ -1,6 +1,6 @@
 # Alessandro Muleo
 
-2nd year Computer Engineering student at UniCal (Cosenza, Italy). Into security and AI, lately mostly into how LLM agents fail.
+2nd year Computer Engineering student at UniCal (Rende, Italy). Into security and AI, lately mostly into how LLM agents fail.
 
 **Right now**
 - [Scope-rot](https://github.com/AlessandroMuleo/Scope-rot): testing whether LLM agents go back to following a rule after a temporary exception to it ends. Method is written down, no results yet.
